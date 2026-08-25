@@ -1,0 +1,6 @@
+id_metodo_pago,nombre,activo,creado_en,modificado_en,creado_por,modificado_por
+1,Efectivo,t,2026-07-17 19:22:27.718562-05,2026-07-17 19:22:27.718562-05,system,
+2,Tarjeta de Débito,t,2026-07-17 19:22:27.718562-05,2026-07-17 19:22:27.718562-05,system,
+3,Tarjeta de Crédito,t,2026-07-17 19:22:27.718562-05,2026-07-17 19:22:27.718562-05,system,
+4,Transferencia,t,2026-07-17 19:22:27.718562-05,2026-07-17 19:22:27.718562-05,system,
+5,Billetera Digital,t,2026-07-17 19:22:27.718562-05,2026-07-17 19:22:27.718562-05,system,

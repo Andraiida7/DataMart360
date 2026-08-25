@@ -1,0 +1,470 @@
+id_auditoria_sistema,id_usuario_sistema,accion_realizada,tabla_afectada,registro_id,valores_anteriores,valores_nuevos,fecha_hora
+1,1,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+2,1,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+3,1,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+4,1,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+5,1,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+6,1,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+7,1,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+8,2,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+9,2,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+10,2,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+11,2,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+12,2,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+13,2,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+14,2,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+15,3,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+16,3,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+17,3,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+18,3,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+19,3,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+20,3,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+21,3,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+22,4,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+23,4,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+24,4,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+25,4,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+26,4,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+27,4,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+28,4,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+29,5,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+30,5,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+31,5,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+32,5,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+33,5,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+34,5,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+35,5,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+36,6,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+37,6,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+38,6,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+39,6,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+40,6,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+41,6,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+42,6,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+43,7,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+44,7,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+45,7,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+46,7,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+47,7,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+48,7,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+49,7,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+50,8,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+51,8,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+52,8,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+53,8,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+54,8,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+55,8,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+56,8,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+57,9,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+58,9,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+59,9,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+60,9,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+61,9,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+62,9,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+63,9,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+64,10,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+65,10,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+66,10,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+67,10,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+68,10,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+69,10,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+70,10,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+71,11,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+72,11,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+73,11,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+74,11,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+75,11,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+76,11,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+77,11,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+78,12,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+79,12,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+80,12,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+81,12,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+82,12,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+83,12,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+84,12,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+85,46,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+86,46,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+87,46,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+88,46,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+89,46,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+90,46,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+91,46,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+92,47,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+93,47,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+94,47,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+95,47,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+96,47,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+97,47,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+98,47,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+99,48,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+100,48,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+101,48,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+102,48,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+103,48,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+104,48,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+105,48,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+106,49,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+107,49,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+108,49,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+109,49,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+110,49,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+111,49,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+112,49,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+113,50,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+114,50,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+115,50,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+116,50,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+117,50,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+118,50,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+119,50,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+120,51,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+121,51,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+122,51,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+123,51,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+124,51,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+125,51,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+126,51,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+127,52,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+128,52,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+129,52,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+130,52,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+131,52,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+132,52,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+133,52,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+134,53,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+135,53,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+136,53,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+137,53,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+138,53,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+139,53,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+140,53,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+141,54,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+142,54,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+143,54,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+144,54,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+145,54,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+146,54,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+147,54,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+148,55,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+149,55,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+150,55,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+151,55,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+152,55,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+153,55,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+154,55,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+155,56,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+156,56,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+157,56,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+158,56,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+159,56,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+160,56,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+161,56,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+162,57,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+163,57,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+164,57,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+165,57,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+166,57,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+167,57,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+168,57,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+169,58,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+170,58,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+171,58,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+172,58,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+173,58,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+174,58,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+175,58,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+176,59,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+177,59,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+178,59,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+179,59,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+180,59,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+181,59,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+182,59,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+183,60,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+184,60,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+185,60,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+186,60,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+187,60,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+188,60,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+189,60,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+190,61,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+191,61,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+192,61,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+193,61,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+194,61,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+195,61,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+196,61,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+197,62,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+198,62,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+199,62,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+200,62,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+201,62,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+202,62,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+203,62,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+204,63,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+205,63,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+206,63,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+207,63,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+208,63,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+209,63,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+210,63,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+211,64,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+212,64,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+213,64,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+214,64,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+215,64,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+216,64,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+217,64,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+218,65,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+219,65,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+220,65,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+221,65,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+222,65,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+223,65,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+224,65,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+225,66,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+226,66,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+227,66,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+228,66,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+229,66,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+230,66,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+231,66,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+232,67,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+233,67,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+234,67,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+235,67,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+236,67,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+237,67,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+238,67,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+239,68,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+240,68,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+241,68,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+242,68,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+243,68,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+244,68,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+245,68,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+246,69,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+247,69,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+248,69,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+249,69,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+250,69,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+251,69,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+252,69,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+253,70,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+254,70,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+255,70,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+256,70,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+257,70,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+258,70,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+259,70,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+260,71,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+261,71,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+262,71,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+263,71,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+264,71,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+265,71,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+266,71,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+267,72,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+268,72,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+269,72,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+270,72,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+271,72,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+272,72,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+273,72,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+274,73,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+275,73,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+276,73,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+277,73,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+278,73,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+279,73,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+280,73,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+281,74,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+282,74,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+283,74,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+284,74,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+285,74,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+286,74,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+287,74,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+288,75,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+289,75,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+290,75,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+291,75,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+292,75,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+293,75,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+294,75,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+295,76,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+296,76,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+297,76,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+298,76,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+299,76,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+300,76,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+301,76,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+302,77,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+303,77,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+304,77,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+305,77,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+306,77,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+307,77,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+308,77,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+309,78,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+310,78,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+311,78,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+312,78,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+313,78,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+314,78,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+315,78,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+316,79,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+317,79,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+318,79,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+319,79,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+320,79,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+321,79,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+322,79,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+323,80,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+324,80,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+325,80,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+326,80,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+327,80,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+328,80,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+329,80,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+330,81,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+331,81,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+332,81,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+333,81,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+334,81,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+335,81,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+336,81,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+337,82,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+338,82,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+339,82,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+340,82,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+341,82,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+342,82,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+343,82,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+344,83,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+345,83,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+346,83,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+347,83,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+348,83,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+349,83,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+350,83,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+351,84,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+352,84,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+353,84,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+354,84,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+355,84,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+356,84,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+357,84,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+358,85,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+359,85,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+360,85,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+361,85,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+362,85,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+363,85,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+364,85,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+365,86,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+366,86,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+367,86,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+368,86,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+369,86,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+370,86,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+371,86,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+372,87,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+373,87,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+374,87,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+375,87,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+376,87,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+377,87,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+378,87,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+379,88,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+380,88,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+381,88,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+382,88,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+383,88,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+384,88,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+385,88,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+386,89,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+387,89,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+388,89,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+389,89,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+390,89,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+391,89,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+392,89,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+393,90,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+394,90,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+395,90,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+396,90,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+397,90,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+398,90,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+399,90,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+400,91,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+401,91,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+402,91,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+403,91,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+404,91,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+405,91,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+406,91,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+407,92,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+408,92,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+409,92,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+410,92,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+411,92,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+412,92,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+413,92,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+414,93,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+415,93,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+416,93,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+417,93,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+418,93,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+419,93,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+420,93,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+421,94,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+422,94,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+423,94,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+424,94,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+425,94,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+426,94,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+427,94,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+428,95,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+429,95,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+430,95,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+431,95,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+432,95,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+433,95,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+434,95,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+435,96,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+436,96,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+437,96,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+438,96,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+439,96,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+440,96,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+441,96,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+442,97,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+443,97,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+444,97,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+445,97,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+446,97,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+447,97,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+448,97,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+449,98,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+450,98,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+451,98,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+452,98,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+453,98,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+454,98,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+455,98,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+456,99,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+457,99,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+458,99,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+459,99,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+460,99,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+461,99,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+462,99,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
+463,100,INSERT,clientes,1,,"{'"nombre_completo'": '"Juan Gomez'", '"correo_electronico'": '"juan.gomez@gmail.com'"}",2026-03-19 19:22:27.718562-05
+464,100,INSERT,productos,1,,"{'"nombre'": '"Leche Entera 1L'", '"precio_venta_actual'": 1.25}",2026-03-29 19:22:27.718562-05
+465,100,UPDATE,inventarios,25,"{'"stock_actual'": 50}","{'"stock_actual'": 120}",2026-04-18 19:22:27.718562-05
+466,100,INSERT,facturas,100,,"{'"total_pagar'": 45.80, '"numero_factura'": '"FAC-00000100'"}",2026-05-18 19:22:27.718562-05
+467,100,INSERT,compras,50,,"{'"total_pagado'": 2500, '"numero_factura_proveedor'": '"FAC-2026-0000050'"}",2026-06-02 19:22:27.718562-05
+468,100,UPDATE,clientes,200,"{'"telefono'": '"+593980000000'"}","{'"telefono'": '"+593999999999'"}",2026-06-27 19:22:27.718562-05
+469,100,INSERT,tarjetas_fidelizacion,150,,"{'"codigo_tarjeta'": '"DM360-00000150'", '"puntos_acumulados'": 300}",2026-07-07 19:22:27.718562-05
