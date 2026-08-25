@@ -1,6 +1,6 @@
 # DataMart 360
 
-## Sistema de Gestión y Análisis de Datos para una Cadena de Supermercados
+Sistema de Gestión y Análisis de Datos para una Cadena de Supermercados
 
 Proyecto integral de **bases de datos, Data Analytics y Business Intelligence**, desarrollado desde cero para una empresa ficticia del sector retail.
 
@@ -8,9 +8,7 @@ DataMart 360 integra el diseño e implementación de una base de datos relaciona
 
 El proyecto fue desarrollado individualmente con fines académicos y de demostración profesional. Todos los datos utilizados son simulados.
 
----
-
-## 📌 Descripción
+-- Descripción
 
 DataMart 360 representa una cadena ficticia de supermercados y reúne información de diferentes áreas del negocio, como ventas, clientes, productos, inventario, compras, proveedores y sucursales.
 
@@ -18,9 +16,7 @@ La solución permite transformar datos operativos en información útil para ana
 
 El proyecto abarca todo el proceso, desde el **diseño de la base de datos hasta la construcción de los dashboards**.
 
----
-
-## 🎯 Objetivo
+-- Objetivo
 
 Diseñar e implementar una solución de datos que permita organizar, consultar y analizar información de una cadena de supermercados, generando indicadores útiles para evaluar aspectos como:
 
@@ -34,9 +30,7 @@ Diseñar e implementar una solución de datos que permita organizar, consultar y
 
 El proyecto busca aplicar de forma práctica conocimientos de **bases de datos, SQL, análisis de datos y Business Intelligence** en un escenario empresarial.
 
----
-
-## 🏪 Contexto del negocio
+-- Contexto del negocio
 
 DataMart 360 representa una cadena ficticia de supermercados ubicada en Ecuador.
 
@@ -57,9 +51,7 @@ Para simular el funcionamiento del negocio se generó un conjunto de datos que r
 
 > **Nota:** Los datos utilizados son simulados y fueron creados exclusivamente para fines académicos, de aprendizaje y demostración profesional.
 
----
-
-## 🔄 Flujo de trabajo
+-- Flujo de trabajo
 
 ```text
 Datos del negocio
