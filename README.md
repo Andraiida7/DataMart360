@@ -79,7 +79,7 @@ Transformación y limpieza
         KPIs y visualizaciones
 
 
-🛠️ Tecnologías utilizadas
+Tecnologías utilizadas
 Bases de datos
 PostgreSQL
 pgAdmin
